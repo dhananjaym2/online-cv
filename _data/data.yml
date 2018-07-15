@@ -14,33 +14,33 @@ sidebar:
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: dhan********@gmail.com
+    phone: +91 92* *** *33
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    twitter: '@webjeda'
+    linkedin: dhananjaym2
+    github: dhananjaym2
+    twitter: '@dhananjaym2'
 
     languages:
         - language:
-          idiom: English
+          idiom: Hindi
           level: Native
         - language:
-          idiom: French
+          idiom: English
           level: Professional
-        - language:
-          idiom: Spanish
-          level: Professional
+        #- language:
+         # idiom: Spanish
+          #level: Professional
         
     interests:
         - interest:
-          item: Climbing
+          item: Reading hacker articles
           link:
         - interest:
-          item: Snowboarding
+          item: Philately
           link:
         - interest:
-          item: Cooking
+          item: Photography
           link:
 
         
@@ -50,14 +50,14 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+    text: 'An Android app developer by profession who likes open source.'
 
 
 studies: 
     - education:
-      degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      degree: B.Tech. in Computer Engineering
+      university: Rajasthan Technical University 
+      time: 2010 - 2015
       details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
       elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
       magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
