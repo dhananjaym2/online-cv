@@ -47,7 +47,6 @@ sidebar:
 
 
 
-
 career-profile: 
     title: Career Profile
     text: 'An Android app developer by profession who likes open source.'
@@ -58,19 +57,7 @@ studies:
       degree: B.Tech. in Computer Engineering
       university: Rajasthan Technical University 
       time: 2010 - 2015
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
-
-    - education:
-      degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      details: "Pursued from Jodhpur Institute of Engineering and Technology, Jodhpur"
 
 
 
@@ -80,8 +67,8 @@ experiences:
     
     experiences:
         - role: Lead Developer
-          time: 2015 - Present
-          company: Startup Hubs, San Francisco
+          time: April 2017 - Present
+          company: VVDN Technologies, Gurugram
           details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 
         - role: Senior Software Engineer
@@ -124,48 +111,18 @@ projects:
 
 
 
-
-
-publications:
-    title: Publications
-    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-    
-    publications:
-      - paper:
-        title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-      - paper:
-        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-      - paper:
-        title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-
 skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python & Django
-          level: 98%
+          name: Android app development
+          level: 70%
         - skill:
-          name: Javascript & jQuery
-          level: 98%
-        - skill:
-          name: Angular
-          level: 98%
-        - skill:
-          name: HTML5 & CSS
-          level: 95%
-        - skill:
-          name: Ruby on Rails
-          level: 85%
-        - skill:
-          name: Sketch & Photoshop
+          name: Java
           level: 60%
+        - skill:
+          name: Kotlin
+          level: 40%
 
 
 footer: 
